@@ -4,7 +4,7 @@ from colorama import Fore, Back, Style
 from random import choice
 
 logo = """
-                                                     /$$                        
+   SATHANIC  INSTA                                  /$$                        
                                                     | $$                        
   /$$$$$$   /$$$$$$   /$$$$$$   /$$$$$$   /$$$$$$  /$$$$$$    /$$$$$$   /$$$$$$ 
  /$$__  $$ /$$__  $$ /$$__  $$ /$$__  $$ /$$__  $$|_  $$_/   /$$__  $$ /$$__  $$
