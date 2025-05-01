@@ -17,12 +17,8 @@ logo = """
                     |__/ """
 
 urls = [
-    "GitHub - https://github.com/rajbhx",
-    "Instagram - https://instagram.com/rajbhx",
-    "Facebook - https://fb.com/rajbhx",
-    "Twitter - https://twitter.com/rajbhx",
-    "Instagram-Reporter Tool - https://github.com/jarvisstar/instagram-reporter",
-    "Gmail - mailto:rajbhx@gmail.com"
+    "GitHub - https://github.com/sathaniccc/SATHANIC-INSTA-REPORTER",
+    "WhatsApp - +919778158839
     ]
 
 def print_logo():
